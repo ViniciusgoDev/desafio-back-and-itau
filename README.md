@@ -1,2 +1,1 @@
-# desafio-back-and-itau
-Resoluçao do desafio backend do itau utilizando java/Spring boot
+Este projeto é uma API REST desenvolvida utilizando Spring Boot, com o objetivo de receber transações financeiras e calcular estatísticas relacionadas a elas, como contagem, soma, média, mínimo e máximo dos valores transacionados nos últimos 60 segundos. A API implementa três endpoints: POST /transacao para receber as transações, DELETE /transacao para limpar os dados armazenados e GET /estatistica para calcular as estatísticas das transações. O projeto foi realizado com foco em aprendizado e não está vinculado a um processo seletivo.
